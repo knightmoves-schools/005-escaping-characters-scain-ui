@@ -1,10 +1,10 @@
 ﻿namespace knightmoves;
 public class Email
 {
-    public const string Introduction = @"Dear Mother,
-    " +
-    "\tThank you for such a \"thoughtful\" gift. \n" +
-    "i will cherish it \'forever\'.\n\n" +
+    public string Introduction = 
+    "Dear Mother, \n" + 
+    "\tThank you for such a \"Thoughtful\" gift.\n" +
+    "I will cherish it \'Forever\'.\n\n" + 
     "Sincerely,\n" +
-    "Samuel Cain :\\";
+    "Samuel Cain: \\";
 }
